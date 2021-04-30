@@ -1,1 +1,16 @@
-nalkdn
+An adaptive sensing strategy is more desirable than a pre-determined plan
+
+Receive data from different types of sensors simultaneously
+i.e visual,sounds,LIDARS,GPS,etc,,, so that when one fails others can be relied on...
+More number of sensors can improve certainity
+
+Developing better path planning algorithims which incorporate all the above sensory data
+
+Something similar to a probabilistic model can be followed:
+Calculate the probability of success for each possible action of navigation and 
+Follow the one with the highest chance of success...
+
+For the example of weather :
+
+proofing such as water proofing to prevent reduction of quality of data(or damage on sensors)
+Overcoming problems such as the robot behaving unexpectedly because it thinks rain is an obstacle..
