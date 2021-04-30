@@ -1,0 +1,6 @@
+APPROACH
+
+* Use a while loop to analyze the video frame by a frame 
+* for each frame draw bounding boxes around pedastrians
+* the above can be achieved as in q1 using histogram backprojection
+

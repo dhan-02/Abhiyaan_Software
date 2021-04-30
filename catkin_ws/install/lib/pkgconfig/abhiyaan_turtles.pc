@@ -1,0 +1,8 @@
+prefix=/home/dhannyboy/catkin_ws/install
+
+Name: abhiyaan_turtles
+Description: Description of abhiyaan_turtles
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
